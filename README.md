@@ -1,1 +1,1 @@
-Academic project for a Virtual Classroom Management System, developed in the Software Engineering Modeling and Design course, using Software Engineering practices, process modeling, software architecture, and agile management.
+Academic project for a <strong>Virtual Classroom Management System</strong>, developed in the Software Engineering Modeling and Design course, using Software Engineering practices, process modeling, software architecture, and agile management.
