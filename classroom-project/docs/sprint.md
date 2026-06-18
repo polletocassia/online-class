@@ -15,5 +15,5 @@ Dificuldades encontradas:
 Manutenção das tarefas.
 <br><br>
 Soluções adotadas:
-<br><br>
+<br>
 Utilização da ferramenta para apoio no acompanhamento de tais tarefas.
