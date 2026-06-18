@@ -5,15 +5,15 @@ Cássia
 Luisa
 <br>
 Pedro
-<br>
+<br><br>
 Principais decisões tomadas:
 <br>
 Separação de responsabilidades e organização contínua.
-<br>
+<br><br>
 Dificuldades encontradas:
 <br>
 Manutenção das tarefas.
-<br>
+<br><br>
 Soluções adotadas:
-<br>
+<br><br>
 Utilização da ferramenta para apoio no acompanhamento de tais tarefas.
