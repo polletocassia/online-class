@@ -1,3 +1,15 @@
+# Arquitetura de Software
+
+<p>Uma arquitetura em camadas seria suficiente:</p>
+<ul>
+    <li>Frontend (Web)</li>
+    <li>Backend/API</li>
+    <li>Banco de Dados</li>
+    <li>Serviço de IA</li>
+</ul>
+<p>Essa escolha justifica-se por ser um estilo arquitetural muito comum em aplicações de software, especialmente em sistemas corporativos e aplicações web, além de organizar o sistema em camadas lógicas, onde cada uma tem responsabilidades bem definidas.</p>
+
+
 # Decisões Arquiteturais
 
 ### 1. Arquitetura em Camadas
