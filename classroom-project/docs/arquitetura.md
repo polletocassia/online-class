@@ -1,6 +1,6 @@
 # Arquitetura de Software
 
-<p>Uma arquitetura em camadas seria suficiente:</p>
+<p>A arquitetura de software em camadas foi escolhida:</p>
 <ul>
     <li>Frontend (Web)</li>
     <li>Backend/API</li>
