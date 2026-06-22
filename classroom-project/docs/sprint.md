@@ -4,7 +4,7 @@
 <ul>
     <li>
         Cássia
-        <ol>
+        <ol type="1">
             <li>Definição do problema;</li>
             <li>Definição das regras de negócio;</li>
             <li>Elaboração das User Stories;</li>
@@ -16,7 +16,7 @@
     </li>
     <li>
         Luisa
-        <ol>
+        <ol type="1">
             <li>Identificação dos stakeholders;</li>
             <li>Definição do MVP;</li>
             <li>BPMN;</li>
@@ -25,7 +25,7 @@
     </li>
     <li>
         Pedro
-        <ol>
+        <ol type="1">
             <li>Diagrama de Casos de Uso;</li>
             <li>Arquitetura de Software;</li>
             <li>Organização do quadro Kanban;</li>
@@ -38,18 +38,23 @@
 ### Principais decisões tomadas
 <ul>
     <li>Separação de responsabilidades e organização contínua.</li>
+    <li>Busca por auxílio e tira dúvidas com a professora.</li>
+    <li>Constantes pesquisas para aprofundar a comprenssão de cada conteúdo abordado no trabalho.</li>
+    <li>Busca por melhorias no entrosamento da equipe.</li>
 </ul>
 
 ### Dificuldades encontradas
 <ul>
-    <li>Manutenção e organização das tarefas;</li>
-    <li>Montagem do modelo C4;</li>
-    <li>Estruturar determinadas partes do modelo BPMN;</li>
+    <li>Manutenção e organização das tarefas.</li>
+    <li>Montagem do modelo C4.</li>
+    <li>Diálogo entre os membros da equipe como reunião.</li>
+    <li>Estruturar determinadas partes do modelo BPMN.</li>
 </ul>
 
 ### Soluções adotadas
 <ul>
-    <li>Utilização da ferramenta para apoio no acompanhamento de tais tarefas;</li>
-    <li>Estudar sobre modelos C4;</li>
-    <li>Pesquisar sobre BPMN e sanar dúvidas com a professora;</li>
+    <li>Utilização da ferramenta para apoio no acompanhamento de tais tarefas.</li>
+    <li>Estudar sobre modelos C4.</li>
+    <li>Criação de grupo no Google Chat e WhatsApp, respectivamente para compartilhamento de arquivos no Google Drive e comunicação rápida.</li>
+    <li>Pesquisar sobre BPMN e sanar dúvidas com a professora.</li>
 </ul>
