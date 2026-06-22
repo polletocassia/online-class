@@ -39,7 +39,7 @@
 <ul>
     <li>Separação de responsabilidades e organização contínua.</li>
     <li>Busca por auxílio e tira dúvidas com a professora.</li>
-    <li>Constantes pesquisas para aprofundar a comprenssão de cada conteúdo abordado no projeto.</li>
+    <li>Constantes pesquisas para aprofundar a compreensão de cada conteúdo abordado no projeto.</li>
     <li>Busca por melhorias no entrosamento da equipe.</li>
 </ul>
 
