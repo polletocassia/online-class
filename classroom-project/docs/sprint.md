@@ -1,18 +1,23 @@
-<p>Divisão das responsabilidades:</p>
+# Diário de Sprint
+
+### Divisão das responsabilidades
 <ul>
     <li>Cássia</li>
     <li>Luisa</li>
     <li>Pedro</li>
 </ul>
-<p>Principais decisões tomadas:</p>
+
+### Principais decisões tomadas
 <ul>
     <li>Separação de responsabilidades e organização contínua.</li>
 </ul>
-<p>Dificuldades encontradas:</p>
+
+### Dificuldades encontradas
 <ul>
     <li>Manutenção e organização das tarefas.</li>
 </ul>
-<p>Soluções adotadas:</p>
+
+### Soluções adotadas
 <ul>
     <li>Utilização da ferramenta para apoio no acompanhamento de tais tarefas.</li>
 </ul>
